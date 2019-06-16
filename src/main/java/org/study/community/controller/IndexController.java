@@ -1,11 +1,11 @@
-package org.study.community;
+package org.study.community.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 
 /**
  * @author yangkai
- * @description TODO
+ * @description 项目主页
  * @date 2019/5/31 16:21
  **/
 
